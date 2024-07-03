@@ -1,0 +1,11 @@
+080a4000d77afe7c4c67bcda6cec4c38 *DESCRIPTION
+7bda34666c14633f6396113565e8f0be *NAMESPACE
+d5f5cda80be49e2502a8b6cb4fa59fd0 *R/alc.R
+47d139059500a76c3cf91501dbe90f39 *R/changepoint.sim1D.R
+8956bd2dedf530f13e4ff6187951f586 *R/changepoint.sim2D.R
+f18ebea05ef96753c19e92fd40ec6432 *data/fireData.rda
+ad5bcb2ec13f4ad947ffd3bbde644375 *man/alc.Rd
+3d691d6cb13d70ffb1dea00ffec17efc *man/changepoint.sim1D.Rd
+eeb858024a44f785493498f2033e6e80 *man/changepoint.sim2D.Rd
+256b9e25ae13c801075df3976896e5d6 *man/data-fireData.Rd
+865cd6e1033ec449c1106ad52efe9784 *man/nonsmooth-package.Rd
